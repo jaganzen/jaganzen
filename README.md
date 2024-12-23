@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate data analytics instructor with a 
 
 ## About Me
 
-At CoopCareers, I teach the fundamentals of data analytics using tools like Microsoft Excel, SQL, Tableau, and Python. My role involves not only instructing students but also providing guidance to fellow instructors and Coop shoppers. Through my efforts, I've helped over 40 individuals secure full-time roles in the tech industry across various domains, including digital marketing companies and financial institutions.
+At CoopCareers, I teach the fundamentals of data analytics using tools like Microsoft Excel, SQL, Tableau, and Python. My role involves not only instructing students but also providing guidance to fellow instructors and Coop shoppers. Through my efforts, I've helped over 80+ individuals secure full-time roles in the tech industry across various domains, including digital marketing companies and financial institutions.
 
 In addition to data analytics, I have a background in software engineering with skills in HTML, CSS, JavaScript, React, React Redux, React Native, and the ability to build full stack web applications. You can find my software engineering repositories and the products I've worked on at [github.com/glongia18](https://github.com/glongia18). I enjoy coming up with technical solutions for various types of projects, not just focusing on the project itself but also on innovative problem-solving.
 
